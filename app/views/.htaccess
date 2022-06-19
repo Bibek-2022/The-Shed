@@ -1,0 +1,2 @@
+Options -Indexes
+AliasMatch ^(.*\.)(js|css)$ /app/views$1$2
